@@ -15,7 +15,7 @@ library(tidyverse)
 library(arm)
 library(broom)
 
-cb_palette = c("#56B4E9", "#E69F00", "#0072B2", "#009E73",
+cb_palette = c("#56B4E9",  "#E69F00", "#0072B2", "#009E73",
                "#CC79A7", "#999999", "#D55E00", "#F0E442")
 
 ```
