@@ -1,6 +1,4 @@
-# STAT-S 670: Exploratory Data Analysis
-
-## Mini-Project: Life Expectancy and COVID
+# Project: Life Expectancy and COVID
 
 ### Authors:
 Rishikesh Kakde | Swarn Gaba | Gayatri Gattani | Gandhar Ravindra Pansare
